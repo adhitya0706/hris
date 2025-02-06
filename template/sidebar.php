@@ -53,6 +53,14 @@
         </a>
         
         <li class="nav-item">
+        <a class="nav-link collapsed" href="<?php echo BASE_URL; ?>/hris/pengunduran_diri/index.php">
+            <i class="bi bi-briefcase"></i><span>Pengunduran diri</span>
+        </a>
+        <li class="nav-item">
+        <a class="nav-link collapsed" href="<?php echo BASE_URL; ?>/hris/phk/index.php">
+            <i class="bi bi-briefcase"></i><span>PHK</span>
+        </a>
+        <li class="nav-item">
         <a class="nav-link collapsed" href="<?php echo BASE_URL; ?>/hris/slip_gaji/index.php">
             <i class="bi bi-cash-stack"></i><span>Slip Gaji</span>
         </a>   
